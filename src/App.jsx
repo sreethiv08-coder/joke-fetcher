@@ -1,7 +1,7 @@
-import Counter from "./Counter";
+import JokeFetcher from "./JokeFetcher";
 
 function App() {
-  return <Counter />;
+  return <JokeFetcher />;
 }
 
 export default App;
