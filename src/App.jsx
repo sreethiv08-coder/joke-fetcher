@@ -1,10 +1,7 @@
-import JokeFetcher from "./JokeFetcher"
-function App(){
-  return (
-    <div>
-      <JokeFetcher />
-    </div>
-  )
+import Counter from "./Counter";
+
+function App() {
+  return <Counter />;
 }
 
-export default App
+export default App;
